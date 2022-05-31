@@ -1,0 +1,12 @@
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\bin\Debug\UsersWinForms.exe.config
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\bin\Debug\UsersWinForms.exe
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\bin\Debug\UsersWinForms.pdb
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.csprojAssemblyReference.cache
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.Properties.Resources.resources
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.sign_up.resources
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.csproj.GenerateResource.cache
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.csproj.CoreCompileInputs.cache
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.exe
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.pdb
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.Form1.resources
+D:\Users\Danil\source\repos\UsersWinForms\UsersWinForms\obj\Debug\UsersWinForms.log_in.resources
